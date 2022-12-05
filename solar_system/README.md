@@ -9,3 +9,7 @@ Simulation of the solar system with planets.
 - run `npm i -g five-server@latest`
 - run `five-server --port=8000`
 - open the browser and go to `localhost:8000`
+
+## planets textures
+
+- [Textures](https://www.solarsystemscope.com/textures/)
