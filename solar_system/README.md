@@ -13,3 +13,7 @@ Simulation of the solar system with planets.
 ## planets textures
 
 - [Textures](https://www.solarsystemscope.com/textures/)
+
+## Demo
+
+[Demo](https://youtu.be/qPUkjtOP_C4)
